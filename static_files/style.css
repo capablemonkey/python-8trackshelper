@@ -1,0 +1,158 @@
+.banner
+{
+	font-size:35px;
+	font-family:"Lucida Sans";
+}
+
+.slogan
+{
+	font-size:12px;
+	font-family:"Courier New";
+}
+
+.navbar
+{
+	float:left;
+	text-align:left;
+	font-family:"Lucida Sans";
+	font-size:14px;
+}
+
+.bottom
+{
+	text-align:center;
+	font-family:"Lucida Sans";
+	font-size:14px;
+}
+
+.footer
+{
+	font-family:"Lucida Sans";
+	float: left;
+	color: #666;
+	font-size: 11px;
+	font-weight: bold;
+	font-family: Arial,Sans;
+}
+
+.endgame
+{
+	font-family:"Lucida Sans";
+	font-size:14px;
+}
+
+.showcase
+{
+	text-align: center;
+	font-family:"Lucida Sans";
+}
+
+.info
+{
+	text-align: center;
+	font-family:"Lucida Sans";
+	font-size:14px;
+}
+
+table.showcase
+{
+	border-width: 1px;
+	margin-left: auto;
+	margin-right: auto;	
+	border-spacing: 20px;
+}
+
+table.showcase td 
+{
+	border-width: 1px;
+	padding: 8px;
+	border-style: dashed;
+	border-color: gray;
+	background-color: white;
+}
+
+.tracklist
+{
+	font-family:"Lucida Sans";
+	font-size:12px;
+}
+
+table.tracklist
+{
+	border-width: 1px;
+	margin-left: auto;
+	margin-right: auto;	
+	border-spacing: 5px;
+}
+
+table.tracklist td 
+{
+	border-width: 1px;
+	padding: 8px;
+	border-style: dashed;
+	border-color: gray;
+	background-color: white;
+}
+
+ul.todo
+{
+	margin-left: auto;
+	margin-right: auto;
+	font-family:"Courier New";
+	font-size:12px;
+}
+
+.title
+{
+	font-size:70px;
+	font-weight:600;
+	color:#333;
+	font-family:Helvetica,Arial;
+	letter-spacing:-3px;
+	white-space:nowrap;
+
+}
+
+.trial
+{
+	width:40%;
+	float:right;
+	margin-left: auto;
+	margin-right: auto;
+	padding-right: 10px;
+	font-family:Helvetica,Arial;
+	font-size:12px;
+	border-radius: 15px;
+}
+
+.heading
+{
+	font-size: 30px;
+	font-weight:600;
+	font-family:Helvetica,Arial;
+}
+
+.user
+{
+	font-size: 45px;
+}
+
+.main
+{
+	padding-top: 10px;
+	padding-right: 20px;
+	padding-bottom: 30px;
+	padding-left: 20px;
+	width: 860px;
+	background-color: #fff;
+	margin-right: auto;
+	margin-left: auto;
+	border-radius: 15px;
+	border-style:solid;
+	border-width:2px;
+	border-color:#333;
+}
+
+html.home{
+background:#e7e7e7 url(http://i.imgur.com/7Jo8P.gif) repeat
+}

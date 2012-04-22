@@ -1,0 +1,19 @@
+application: 8trackshelper
+version: 2
+runtime: python27
+threadsafe: false
+api_version: 1
+
+handlers:
+- url: /retrieve
+  script: home.py
+
+#- url: /favicon\.ico
+#  static_files: favicon.ico
+#  upload: favicon\.ico
+  
+- url: /static_files
+  static_dir: static_files
+
+- url: /.*
+  script: home.py
